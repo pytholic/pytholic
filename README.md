@@ -5,7 +5,7 @@
   - Medical data scarcity
   - Deep learning for healthcare
   - Image synthesis/generation using GANs
-- 💞️ I’m looking for further opportunities in the domain of machine learning, computer vision adn AI
+- 💞️ I’m looking for further opportunities in the domain of machine learning, computer vision and AI
 - 📫 You can reach me at rajahaseeb147@gmail.com
 
 <!---
