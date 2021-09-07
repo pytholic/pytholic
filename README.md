@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajahaseeb147
+- 👋 Hi, I’m Raja Haseeb
 - 👀 I’m interested in machine learning and computer vision
 - 🌱 I’m currently working on 
   - Point Cloud classification, segmentation and registration with deep learning
