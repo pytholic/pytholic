@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Raja Haseeb
-- 👀 I’m interested in machine learning and computer vision
+- 👀 I’m interested in **machine learning**, **computer vision** and **AI development**
 - 🌱 I’m currently working on 
-  - Point Cloud classification, segmentation and registration with deep learning
-  - Medical image segmentation
-  - Deep learning for healthcare
-  - Integration of deep learning with Unity3d
+  * Integration of deep learning models into iOS devices and applications
+  * Point Cloud classification, segmentation and registration with deep learning
+  * Medical image segmentation
+  * Deep learning for healthcare
+  * Integration of deep learning model into with Unity3d
 - 📫 You can reach me at rajahaseeb147@gmail.com
 
 <!---
