@@ -5,7 +5,7 @@
   * Point Cloud classification, segmentation and registration with deep learning
   * Medical image processing and segmentation
   * Deep learning for healthcare
-  * Integration of deep learning model into with Unity3d
+  * Integration of deep learning model into Unity3d
 - 📫 You can reach me at rajahaseeb147@gmail.com
 
 <!---
