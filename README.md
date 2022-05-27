@@ -9,6 +9,7 @@
   * Integration of deep learning models into iOS devices and applications
   * Deep learning for healthcare
   * Integration of deep learning model into Unity3d
+  * Image classification, segmentation and detection.
 - 📫 You can reach me at my [Email](rajahaseeb147@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pytholic/)
 
 <!---
