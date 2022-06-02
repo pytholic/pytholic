@@ -8,8 +8,10 @@
   * Feature detection in 3D data
   * Integration of deep learning models into iOS devices and applications
   * Deep learning for healthcare
+  * Computer vision applications
   * Integration of deep learning model into Unity3d
   * Image classification, segmentation and detection.
+  * XR and AR technologies
 - 📫 You can reach me at my [Email](rajahaseeb147@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pytholic/)
 
 <!---
