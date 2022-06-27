@@ -1,7 +1,7 @@
-👋 Hi, I’m Raja Haseeb
-🔭 I am currently working at SKIA, Korea
-👀 I’m interested in machine learning, computer vision and AI development
-🌱 I’m currently working on
+-  👋 Hi, I’m Raja Haseeb
+-  🔭 I am currently working at SKIA, Korea
+-  👀 I’m interested in machine learning, computer vision and AI development
+-  🌱 I’m currently working on
     * Deep learning-based classification, detection and segmentation tasks
     * Point Cloud classification, segmentation and registration with deep learning
     * Medical image processing and segmentation
@@ -13,7 +13,7 @@
     * XR and AR technologies
     * Natural Language Processing 
     * App development with Flutter
-📫 You can reach me at my [Email](rajahaseeb147@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pytholic/)
+-  📫 You can reach me at my [Email](rajahaseeb147@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pytholic/)
 
 <!---
 rajahaseeb147/rajahaseeb147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
