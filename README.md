@@ -13,6 +13,7 @@
     * XR and AR technologies
     * Natural Language Processing 
     * App development with Flutter
+    * GANs and Diffusion Models
 -  📫 You can reach me at my [Email](rajahaseeb147@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pytholic/)
 
 <!---
