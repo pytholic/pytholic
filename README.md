@@ -1,5 +1,5 @@
 -  👋 Hi, I’m Raja Haseeb
--  🔭 I am currently working at SKIA, Korea
+-  🔭 I am currently working at DeltaX, Korea
 -  👀 I’m interested in machine learning, computer vision and AI development
 -  🌱 I’m currently working on
     * Deep learning-based classification, detection and segmentation tasks
