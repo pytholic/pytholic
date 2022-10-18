@@ -2,6 +2,8 @@
 -  🔭 I am currently working at DeltaX, Korea
 -  👀 I’m interested in machine learning, computer vision and AI development
 -  🌱 I’m currently working on
+    * Depth estimation and 3D mapping
+    * NeRF and 3D reconstruction
     * Deep learning-based classification, detection and segmentation tasks
     * Point Cloud classification, segmentation and registration with deep learning
     * Medical image processing and segmentation
