@@ -1,4 +1,4 @@
--  👋 Hi, I’m Raja Haseeb
+-  👋 Hi, I’m Haseeb Raja
 -  🔭 I am currently working at DeltaX, Korea
 -  👀 I’m interested in machine learning, computer vision and AI development
 -  🌱 I’m currently working on
