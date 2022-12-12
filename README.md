@@ -3,6 +3,7 @@
 -  👀 I’m interested in machine learning, computer vision and AI development
 -  🌱 I’m currently working on
     * Depth estimation and 3D mapping
+    * Visual SLAM
     * NeRF and 3D reconstruction
     * Deep learning-based classification, detection and segmentation tasks
     * Point Cloud classification, segmentation and registration with deep learning
