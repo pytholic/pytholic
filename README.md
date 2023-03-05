@@ -9,7 +9,7 @@
     * Visual SLAM
     * Natural Language Processing 
     * GANs and Diffusion Models
--  📫 You can reach me at my [Email](rajahaseeb147@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pytholic/)
+-  📫 Visit my [website](http://pytholic-homepage.vercel.app/)
 
 <!---
 rajahaseeb147/rajahaseeb147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
