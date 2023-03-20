@@ -1,14 +1,12 @@
 -  👋 Hi, I’m Haseeb Raja
 -  🔭 I am currently working at DeltaX, Korea
--  👀  Currently, I’m interested in full-stack development, AI and MLOps
+-  👀  Currently, I’m interested in computer vision, AI, full-stack development, and MLOps
 -  🌱 I’m currently interested in
+    * Computer Vision
     * Fullstack development
     * MLOps
     * Docker
-    * Depth estimation and 3D mapping
-    * Visual SLAM
     * Natural Language Processing 
-    * GANs and Diffusion Models
 -  📫 Visit my [website](http://pytholic-homepage.vercel.app/)
 
 <!---
