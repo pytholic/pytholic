@@ -8,6 +8,7 @@
  - Model inference and optimization
  - MLOps
  - Software development
+
 📫 Visit my [website](http://pytholic-homepage.vercel.app/)
 
 <!---
