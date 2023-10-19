@@ -9,6 +9,7 @@
  - Object Tracking
  - Person ReID
  - Model inference and optimization
+ - NLP/LLMs
  - MLOps
  - Software development
 
