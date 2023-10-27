@@ -8,8 +8,10 @@
  - Computer Vision 
  - Object Tracking
  - Person ReID
+ - Healthcare
  - Model inference and optimization
  - NLP/LLMs
+ - Diffusion models
  - MLOps
  - Software development
 
