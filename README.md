@@ -2,7 +2,7 @@
 
 🔭 I am currently working at 3i Inc., Korea
 
-👀 Currently, I’m interested in machine learning, computer vision, AI, NLP, software development, and MLOps
+👀 Currently, I’m interested in machine learning, computer vision, AI, NLP, software development, MLOps, and Korean language.
 
 🌱 I’m currently working on
  - Computer Vision 
@@ -12,6 +12,7 @@
  - Model inference and optimization
  - NLP/LLMs
  - Diffusion models
+ - Google Cloud Platform
  - MLOps
  - Software development
 
