@@ -1,20 +1,24 @@
 👋 Hi, I’m Haseeb Raja
-
 🔭 I am currently working at 3i Inc., Korea
-
-👀 Currently, I’m interested in AI, machine learning, computer vision, NLP, software development, MLOps, and Korean language.
-
+👀 Currently, I’m interested in AI, machine learning, computer vision, healthcare, NLP, GCP, software development, MLOps, and the Korean language.
 🌱 I’m currently working on
- - Computer Vision 
- - Object Tracking
- - Person ReID
- - Healthcare
- - Model inference and optimization
- - NLP/LLMs
- - Diffusion models
- - Google Cloud Platform
- - MLOps
- - Software development
+      - Computer Vision 
+      - Object Tracking
+      - Person ReID
+      - Model inference and optimization
+      - LSTMs, Transformers, and LLMs.
+      - Google Cloud Platform
+
+🍄 I am interested in
+      - Computer vision
+      - NLP/LLMs
+      - Self-supervised learning
+      - Diffusion models 
+      - Google Cloud Platform
+      - Healthcare and exercise
+      - MLOps
+      - Software development
+      - Korean language
 
 📫 Visit my [website](http://pytholic-homepage.vercel.app/)
 
