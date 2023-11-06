@@ -1,6 +1,9 @@
 👋 Hi, I’m Haseeb Raja
+
 🔭 I am currently working at 3i Inc., Korea
+
 👀 Currently, I’m interested in AI, machine learning, computer vision, healthcare, NLP, GCP, software development, MLOps, and the Korean language.
+
 🌱 I’m currently working on
       - Computer Vision 
       - Object Tracking
