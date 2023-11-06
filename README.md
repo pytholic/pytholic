@@ -11,26 +11,26 @@
 
 🌱 I’m currently working on
 
-      - Computer Vision 
-      - Object Tracking
-      - Person ReID
-      - Model inference and optimization
-      - LSTMs, Transformers, and LLMs.
-      - Google Cloud Platform
+- Computer Vision 
+- Object Tracking
+- Person ReID
+- Model inference and optimization
+- LSTMs, Transformers, and LLMs.
+- Google Cloud Platform
 
 
 
 🍄 I am interested in
 
-      - Computer vision
-      - NLP/LLMs
-      - Self-supervised learning
-      - Diffusion models 
-      - Google Cloud Platform
-      - Healthcare and exercise
-      - MLOps
-      - Software development
-      - Korean language
+- Computer vision
+- NLP/LLMs
+- Self-supervised learning
+- Diffusion models 
+- Google Cloud Platform
+- Healthcare and exercise
+- MLOps
+- Software development
+- Korean language
 
 
 
