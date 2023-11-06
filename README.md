@@ -2,7 +2,7 @@
 
 🔭 I am currently working at 3i Inc., Korea
 
-👀 Currently, I’m interested in machine learning, computer vision, AI, NLP, software development, MLOps, and Korean language.
+👀 Currently, I’m interested in AI, machine learning, computer vision, NLP, software development, MLOps, and Korean language.
 
 🌱 I’m currently working on
  - Computer Vision 
