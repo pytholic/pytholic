@@ -10,6 +10,7 @@
 
 
 🌱 I’m currently working on
+
       - Computer Vision 
       - Object Tracking
       - Person ReID
@@ -20,6 +21,7 @@
 
 
 🍄 I am interested in
+
       - Computer vision
       - NLP/LLMs
       - Self-supervised learning
