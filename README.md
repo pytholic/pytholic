@@ -5,7 +5,7 @@
 
 
 
-👀 Currently, I’m interested in AI, machine learning, computer vision, healthcare, NLP, GCP, software development, MLOps, and the Korean language.
+👀 Currently, I’m interested in AI, machine learning, computer vision, healthcare, NLP, GCP, MLOps, software development, and the Korean language.
 
 
 
