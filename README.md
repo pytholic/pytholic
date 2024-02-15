@@ -4,12 +4,12 @@
 
 🌱 I’m interested in
 
-    * Machine Learning Operations (MLOps)
-    * Transformers and LLMs
-    * Google Cloud Platform
-    * Healthcare
-    * Advanced Python Programming
-    * Korean language
+ - Machine Learning Operations (MLOps)
+ - Transformers and LLMs
+ - Google Cloud Platform
+ - Healthcare
+ - Advanced Python Programming
+ - Korean language
 
 
 
