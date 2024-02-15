@@ -1,36 +1,13 @@
 👋 Hi, I’m Haseeb Raja
+🔭 I am currently working at Lunit Inc., Korea
 
-
-🔭 I am currently working at 3i Inc., Korea
-
-
-
-👀 Currently, I’m interested in AI, machine learning, computer vision, healthcare, NLP, GCP, MLOps, software development, and the Korean language.
-
-
-
-🌱 I’m currently working on
-
-- Computer Vision 
-- Object Tracking
-- Person ReID
-- Model inference and optimization
-- LSTMs, Transformers, and LLMs.
-- Google Cloud Platform
-
-
-
-🍄 I am interested in
-
-- Computer vision
-- NLP/LLMs
-- Self-supervised learning
-- Diffusion models 
-- Google Cloud Platform
-- Healthcare and exercise
-- MLOps
-- Software development
-- Korean language
+🌱 I’m interested in
+     - Machine Learning Operations (MLOps)
+     - Transformers and LLMs
+     - Google Cloud Platform
+     - Healthcare
+     - Advance Python Programming
+     - Korean language
 
 
 
