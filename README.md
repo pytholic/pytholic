@@ -4,13 +4,12 @@
 
 
 🌱 I’m interested in<br>
-     - RAG and AI Agents 
-     - LLMs, and LLMOps 
-     - Machine Learning Operations (MLOps) 
-     - AI Engineering 
-     - Software architecture and design 
-     - Healthcare 
-     - Korean language 
+     - RAG and AI Agents<br>
+     - LLMs Adaptation<br>
+     - Machine Learning Operations (MLOps)<br>
+     - Software architecture and design<br>
+     - Healthcare<br>
+     - Korean language<br> 
 
 
 
