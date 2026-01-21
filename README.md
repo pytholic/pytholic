@@ -5,7 +5,7 @@
 
 🌱 I’m interested in<br>
      - RAG and AI Agents<br>
-     - LLMs Adaptation<br>
+     - LLM Adaptation<br>
      - Machine Learning Operations (MLOps)<br>
      - Software architecture and design<br>
      - Healthcare<br>
