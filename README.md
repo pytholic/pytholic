@@ -4,6 +4,7 @@
 
 
 🌱 I’m interested in
+
      - RAG and AI Agents
      - LLMs, and LLMOps
      - Machine Learning Operations (MLOps)
