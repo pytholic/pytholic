@@ -3,8 +3,7 @@
 🔭 I am currently working at Lunit Inc., Korea
 
 
-🌱 I’m interested in
-
+🌱 I’m interested in<br>
      - RAG and AI Agents
      - LLMs, and LLMOps
      - Machine Learning Operations (MLOps)
