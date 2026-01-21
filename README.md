@@ -3,12 +3,13 @@
 🔭 I am currently working at Lunit Inc., Korea
 
 🌱 I’m interested in
-
- - Machine Learning Operations (MLOps)
- - Transformers, LLMs, and LLMOps
- - Healthcare
- - Korean language
-
+     - RAG and AI Agents
+     - LLMs, and LLMOps
+     - Machine Learning Operations (MLOps)
+     - AI Engineering
+     - Software architecture and design
+     - Healthcare
+     - Korean language
 
 
 📫 Visit my [website](http://pytholic-homepage.vercel.app/)
