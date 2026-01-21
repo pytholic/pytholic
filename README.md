@@ -2,6 +2,7 @@
 
 🔭 I am currently working at Lunit Inc., Korea
 
+
 🌱 I’m interested in
      - RAG and AI Agents
      - LLMs, and LLMOps
@@ -10,6 +11,7 @@
      - Software architecture and design
      - Healthcare
      - Korean language
+
 
 
 📫 Visit my [website](http://pytholic-homepage.vercel.app/)
