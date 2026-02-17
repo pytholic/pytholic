@@ -13,7 +13,7 @@
 
 
 
-📫 Visit my [website](http://pytholic-homepage.vercel.app/)
+📫 Visit my [website](http://pytholic.github.io/)
 
 <!---
 rajahaseeb147/rajahaseeb147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
